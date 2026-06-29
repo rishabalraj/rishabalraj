@@ -22,11 +22,6 @@ Building AI-powered applications using <b>LangChain</b>, <b>LangGraph</b>, <b>RA
 <a href="https://github.com/rishabalraj">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
-
-<a href="https://rishabalraj.github.io/portfolio">
-<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
-</a>
-
 </p>
 
 ---
@@ -106,17 +101,6 @@ Research assistant capable of
 
 ---
 
-### 💻 Autonomous Coding Agent
-
-AI Agent that automatically
-
-- Understands GitHub Issues
-- Generates Code
-- Creates Pull Requests
-- Uses LLM reasoning
-
----
-
 # 🛠 Tech Stack
 
 ## Programming
@@ -187,24 +171,10 @@ Tableau
 ## Cloud & Tools
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=aws,git,github,vscode,docker" />
+<img src="https://skillicons.dev/icons?i=aws,vscode,docker" />
 </p>
 
-AWS EC2
-
-AWS S3
-
-Git
-
-GitHub
-
-VS Code
-
-Docker
-
-Jupyter Notebook
-
-Google Colab
+AWS 
 
 ---
 
@@ -239,12 +209,6 @@ Research Assistant powered by
 - ChromaDB
 - Ollama
 - RAG
-
----
-
-## 💻 Autonomous Coding Agent
-
-AI Coding Assistant capable of solving GitHub Issues automatically.
 
 ---
 
