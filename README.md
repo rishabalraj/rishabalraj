@@ -105,7 +105,7 @@ TF-IDF + Logistic Regression + Streamlit application.
 
 - 📧 Email: rishabalraj@gmail.com
 - 💼 LinkedIn: (https://www.linkedin.com/in/risha-balraj/)
-- 💻 GitHub: https://github.com/YOUR_USERNAME
+- 💻 GitHub: https://github.com/rishabalraj
 
 ---
 
