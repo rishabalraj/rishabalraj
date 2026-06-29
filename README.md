@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi 👋, I'm Risha B</h1>
+<h1 I'm Risha B</h1>
 
 <h3 align="center">
 Aspiring AI Engineer | LLM Engineer | Data Science Graduate Student
