@@ -288,10 +288,6 @@ CGPA: **7.6**
 
 https://www.linkedin.com/in/risha-balraj/
 
-🌐 Portfolio
-
-https://rishabalraj.github.io/portfolio
-
 💻 GitHub
 
 https://github.com/rishabalraj
