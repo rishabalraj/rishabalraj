@@ -1,8 +1,9 @@
 <h1 align="center" style="color:#00E5FF;">
-<h1 align="center"> Hello , I'm Risha B</h1>
+Hi 👋, I'm Risha B
+</h1>
 
-<h3 align="center">
-Aspiring AI Engineer | LLM Engineer | Data Science Graduate Student
+<h3 align="center" style="color:#A855F7;">
+AI Engineer | Data Scientist | Machine Learning Enthusiast
 </h3>
 
 <p align="center">
