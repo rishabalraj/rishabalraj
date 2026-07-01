@@ -1,4 +1,4 @@
-
+<h1 align="center" style="color:#00E5FF;">
 <h1 align="center"> Hello , I'm Risha B</h1>
 
 <h3 align="center">
